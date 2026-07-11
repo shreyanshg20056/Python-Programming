@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b95f9f75-38c1-4c67-898f-590edab9ae2a" name="Changes" comment="New learning codes">
+      <change beforePath="$PROJECT_DIR$/list_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_2.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Function/funct_2.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Set/set_1.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Set/set_2.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3EWxeYZXR2uC9Assa6FT6VIzVrE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.basic_1.executor": "Run",
+    "Python.basic_2.executor": "Run",
+    "Python.basic_3.executor": "Run",
+    "Python.basics_1.executor": "Run",
+    "Python.basics_2.executor": "Run",
+    "Python.basics_3.executor": "Run",
+    "Python.basics_4.executor": "Run",
+    "Python.basics_5.executor": "Run",
+    "Python.con_1.executor": "Debug",
+    "Python.conditional_1.executor": "Run",
+    "Python.conditional_2.executor": "Run",
+    "Python.conditional_3.executor": "Run",
+    "Python.conditional_4.executor": "Run",
+    "Python.dict_1.executor": "Run",
+    "Python.dict_2.executor": "Run",
+    "Python.dict_3.executor": "Run",
+    "Python.dict_4.executor": "Run",
+    "Python.even_odd.executor": "Run",
+    "Python.for_loop_sum_50.executor": "Run",
+    "Python.funct_1.executor": "Run",
+    "Python.funct_2.executor": "Run",
+    "Python.funct_3.executor": "Run",
+    "Python.funct_4.executor": "Run",
+    "Python.funct_5.executor": "Run",
+    "Python.funct_6.executor": "Run",
+    "Python.funct_7.executor": "Run",
+    "Python.list_11.executor": "Run",
+    "Python.list_12.executor": "Run",
+    "Python.list_13.executor": "Run",
+    "Python.list_14.executor": "Run",
+    "Python.list_15.executor": "Run",
+    "Python.list_16.executor": "Run",
+    "Python.list_17.executor": "Run",
+    "Python.list_18.executor": "Run",
+    "Python.list_19.executor": "Run",
+    "Python.loop_1.executor": "Run",
+    "Python.loop_10.executor": "Run",
+    "Python.loop_2.executor": "Run",
+    "Python.loop_3.executor": "Run",
+    "Python.loop_4.executor": "Run",
+    "Python.loop_5.executor": "Run",
+    "Python.loop_6.executor": "Run",
+    "Python.loop_7.executor": "Run",
+    "Python.loop_8.executor": "Run",
+    "Python.loop_9.executor": "Run",
+    "Python.set_1.executor": "Run",
+    "Python.set_2.executor": "Run",
+    "Python.set_3.executor": "Run",
+    "Python.set_4.executor": "Run",
+    "Python.str_2.executor": "Run",
+    "Python.str_3.executor": "Run",
+    "Python.str_4.executor": "Run",
+    "Python.str_5.executor": "Run",
+    "Python.str_6.executor": "Run",
+    "Python.str_7.executor": "Run",
+    "Python.str_8.executor": "Run",
+    "Python.string_1.executor": "Run",
+    "Python.tuple_1.executor": "Run",
+    "Python.tuple_2.executor": "Run",
+    "Python.tuple_3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Python Programming"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\coding\python\Python Programming\dictionary" />
+      <recent name="E:\coding\python\Python Programming\Set" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b95f9f75-38c1-4c67-898f-590edab9ae2a" name="Changes" comment="" />
+      <created>1780308222838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780308222838</updated>
+    </task>
+    <task id="LOCAL-00001" summary="New learning codes">
+      <option name="closed" value="true" />
+      <created>1781037630871</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781037630871</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New learning codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="New learning codes" />
+  </component>
+</project>
