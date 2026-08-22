@@ -21,12 +21,75 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Function/funct_2.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Set/set_1.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Set/set_2.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000199366779" />
+      <entry key="MS500" value="1.0301755509739656" />
+      <entry key="S2" value="1.685046664378899" />
+      <entry key="S5" value="2.6697346086100104" />
+      <entry key="S10" value="3.7915074661018306" />
+      <entry key="S30" value="6.5345515326987424" />
+      <entry key="S60" value="9.761010465273507" />
+      <entry key="M2" value="14.84803103118586" />
+      <entry key="M5" value="21.587542501197614" />
+      <entry key="M10" value="29.21335990087005" />
+      <entry key="M15" value="43.583755580035294" />
+      <entry key="M30" value="107.20841970879906" />
+      <entry key="H1" value="211.0487760914023" />
+      <entry key="H2" value="311.3883900050731" />
+      <entry key="H4" value="382.46505393140654" />
+      <entry key="D1" value="456.33450542567084" />
+      <entry key="W1" value="470.5772650682939" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="2.6834330823773947E-252" />
+      <entry key="S10" value="1.6381187632090046E-126" />
+      <entry key="S30" value="1.1788226222416994E-42" />
+      <entry key="S60" value="1.0857359818306186E-21" />
+      <entry key="M2" value="3.2950508066350266E-11" />
+      <entry key="M5" value="6.414234688607283E-5" />
+      <entry key="M10" value="0.008008891738940722" />
+      <entry key="M15" value="0.04002963364202525" />
+      <entry key="M30" value="0.20007407038900674" />
+      <entry key="H1" value="0.4472964010463376" />
+      <entry key="H2" value="0.6688022136972472" />
+      <entry key="H4" value="0.817803285452709" />
+      <entry key="D1" value="0.9670334019723076" />
+      <entry key="W1" value="0.9952225567065449" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.952638016389422" />
+      <entry key="MS500" value="1.0200224821027364" />
+      <entry key="S2" value="1.6797973306563714" />
+      <entry key="S5" value="2.6487279745584456" />
+      <entry key="S10" value="3.7183246236909153" />
+      <entry key="S30" value="6.419236923205145" />
+      <entry key="S60" value="9.653803578984085" />
+      <entry key="M2" value="14.76676962850653" />
+      <entry key="M5" value="21.54398582256154" />
+      <entry key="M10" value="29.19566776360934" />
+      <entry key="M15" value="43.60292505609538" />
+      <entry key="M30" value="107.38980877853587" />
+      <entry key="H1" value="211.4797648646877" />
+      <entry key="H2" value="312.0456057940164" />
+      <entry key="H4" value="383.27583644888966" />
+      <entry key="D1" value="457.3001548536031" />
+      <entry key="W1" value="471.5722840074553" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -51,6 +114,7 @@
     "Python.basics_3.executor": "Run",
     "Python.basics_4.executor": "Run",
     "Python.basics_5.executor": "Run",
+    "Python.basics_6.executor": "Run",
     "Python.con_1.executor": "Debug",
     "Python.conditional_1.executor": "Run",
     "Python.conditional_2.executor": "Run",
@@ -61,6 +125,10 @@
     "Python.dict_3.executor": "Run",
     "Python.dict_4.executor": "Run",
     "Python.even_odd.executor": "Run",
+    "Python.file_handling_1.executor": "Run",
+    "Python.file_handling_2.executor": "Run",
+    "Python.file_handling_3.executor": "Run",
+    "Python.file_handling_4.executor": "Run",
     "Python.for_loop_sum_50.executor": "Run",
     "Python.funct_1.executor": "Run",
     "Python.funct_2.executor": "Run",
@@ -103,12 +171,26 @@
     "Python.tuple_1.executor": "Run",
     "Python.tuple_2.executor": "Run",
     "Python.tuple_3.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Python Programming"
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Python Programming",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion.inline",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -120,7 +202,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+        <option value="bundled-python-sdk-821f704e66d9-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.9437.214" />
       </set>
     </attachedChunks>
   </component>
@@ -131,6 +213,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1780308222838</updated>
+      <workItem from="1787429750647" duration="5331000" />
     </task>
     <task id="LOCAL-00001" summary="New learning codes">
       <option name="closed" value="true" />
@@ -142,6 +225,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -157,5 +243,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New learning codes" />
     <option name="LAST_COMMIT_MESSAGE" value="New learning codes" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Programming$basics_6.coverage" NAME="basics_6 Coverage Results" MODIFIED="1787436887149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problems/Basic" />
+    <SUITE FILE_PATH="coverage/Python_Programming$file_handling_1.coverage" NAME="file_handling_1 Coverage Results" MODIFIED="1787431054705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
+    <SUITE FILE_PATH="coverage/Python_Programming$file_handling_3.coverage" NAME="file_handling_3 Coverage Results" MODIFIED="1787432519231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
+    <SUITE FILE_PATH="coverage/Python_Programming$file_handling_2.coverage" NAME="file_handling_2 Coverage Results" MODIFIED="1787431829388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
+    <SUITE FILE_PATH="coverage/Python_Programming$file_handling_4.coverage" NAME="file_handling_4 Coverage Results" MODIFIED="1787434352187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
   </component>
 </project>
