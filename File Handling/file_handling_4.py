@@ -1,5 +1,5 @@
-# read() - reads the contemts of the file as str
-# readline() -This read line by line and if you writes this command more than lines then it give you an empty string
+# read() - reads the contents of the file as str
+# readline() -This read line by line and if you write this command more than lines then it give you an empty string
 file_handler = open("python13")
 
 # fh = file_handler.read()

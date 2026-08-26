@@ -1,1 +1,0 @@
-# Calculate simple interest
