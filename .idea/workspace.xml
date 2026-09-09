@@ -34,61 +34,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000001222031" />
-      <entry key="MS500" value="1.0105284093523075" />
-      <entry key="S2" value="1.4318353495260636" />
-      <entry key="S5" value="2.211415900941141" />
-      <entry key="S10" value="3.243227850894299" />
-      <entry key="S30" value="7.529427123682516" />
-      <entry key="S60" value="12.76763763985059" />
-      <entry key="M2" value="20.419802207282043" />
-      <entry key="M5" value="32.44612461279654" />
-      <entry key="M10" value="39.740646401764415" />
-      <entry key="M15" value="43.007010801397435" />
-      <entry key="M30" value="52.11270700773433" />
-      <entry key="H1" value="97.26669824318361" />
-      <entry key="H2" value="217.8133477619977" />
-      <entry key="H4" value="375.70448640279017" />
-      <entry key="D1" value="626.1416912643016" />
-      <entry key="W1" value="686.3427775526126" />
+      <entry key="MS100" value="1.0000000000004423" />
+      <entry key="MS500" value="1.0033817834590613" />
+      <entry key="S2" value="1.2411495461460347" />
+      <entry key="S5" value="1.566127927611003" />
+      <entry key="S10" value="1.7524147311230707" />
+      <entry key="S30" value="1.9095358324087441" />
+      <entry key="S60" value="1.9590489694643853" />
+      <entry key="M2" value="2.416073367676735" />
+      <entry key="M5" value="10.997785678234079" />
+      <entry key="M10" value="35.15683215052596" />
+      <entry key="M15" value="59.75652192405519" />
+      <entry key="M30" value="117.80871911060466" />
+      <entry key="H1" value="194.18890917529492" />
+      <entry key="H2" value="315.91461688995696" />
+      <entry key="H4" value="504.6247252252487" />
+      <entry key="D1" value="912.3601773191746" />
+      <entry key="W1" value="1030.326139682506" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.3824119049858088E-206" />
-      <entry key="S2" value="3.428935897947131E-52" />
-      <entry key="S5" value="2.5945601683395004E-21" />
-      <entry key="S10" value="5.093682526757528E-11" />
-      <entry key="S30" value="3.706897900897439E-4" />
-      <entry key="S60" value="0.019253305952218792" />
-      <entry key="M2" value="0.13875628256846165" />
-      <entry key="M5" value="0.4538382161430783" />
-      <entry key="M10" value="0.6737169566951341" />
-      <entry key="M15" value="0.7699506153124033" />
-      <entry key="M30" value="0.9319321288348719" />
-      <entry key="H1" value="1.307721622756334" />
-      <entry key="H2" value="1.989231519670801" />
-      <entry key="H4" value="2.7177928153714777" />
-      <entry key="D1" value="3.7314578207858236" />
-      <entry key="W1" value="3.960003365678621" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="9.865530222101967E-217" />
+      <entry key="S5" value="3.9595713439622775E-87" />
+      <entry key="S10" value="6.292512490223824E-44" />
+      <entry key="S30" value="3.977506548353638E-15" />
+      <entry key="S60" value="6.329887612531469E-8" />
+      <entry key="M2" value="2.740887697956921E-4" />
+      <entry key="M5" value="0.06217340097379959" />
+      <entry key="M10" value="0.4914230786856648" />
+      <entry key="M15" value="1.0489156346599058" />
+      <entry key="M30" value="2.415093318153613" />
+      <entry key="H1" value="4.00146855693728" />
+      <entry key="H2" value="5.720577870276191" />
+      <entry key="H4" value="7.458576532033348" />
+      <entry key="D1" value="10.192450254359663" />
+      <entry key="W1" value="10.877342315178057" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9075191554265357" />
-      <entry key="MS500" value="0.9910764565568155" />
-      <entry key="S2" value="1.4245798528096243" />
-      <entry key="S5" value="2.2065754161115043" />
-      <entry key="S10" value="3.2393615670668727" />
-      <entry key="S30" value="7.525795243878054" />
-      <entry key="S60" value="12.776480180851875" />
-      <entry key="M2" value="20.536847141541795" />
-      <entry key="M5" value="32.877199611219545" />
-      <entry key="M10" value="40.398483293839426" />
-      <entry key="M15" value="43.76501314423838" />
-      <entry key="M30" value="53.035344186046096" />
-      <entry key="H1" value="98.56057436059747" />
-      <entry key="H2" value="219.78554132326167" />
-      <entry key="H4" value="378.4079939095091" />
-      <entry key="D1" value="629.869382721902" />
-      <entry key="W1" value="690.30219748162" />
+      <entry key="MS100" value="0.7737824967715143" />
+      <entry key="MS500" value="0.9531688483263588" />
+      <entry key="S2" value="1.224511934636922" />
+      <entry key="S5" value="1.557335107842462" />
+      <entry key="S10" value="1.747406150377966" />
+      <entry key="S30" value="1.9076941558622402" />
+      <entry key="S60" value="1.9580851820284435" />
+      <entry key="M2" value="2.414832311410056" />
+      <entry key="M5" value="11.04801320928443" />
+      <entry key="M10" value="35.62063622629577" />
+      <entry key="M15" value="60.77023755204614" />
+      <entry key="M30" value="120.18563870114392" />
+      <entry key="H1" value="198.15881114178993" />
+      <entry key="H2" value="321.61017034771925" />
+      <entry key="H4" value="512.0639362757701" />
+      <entry key="D1" value="922.547065113709" />
+      <entry key="W1" value="1041.2025939689245" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -160,6 +160,9 @@
     "Python.loop_8.executor": "Run",
     "Python.loop_9.executor": "Run",
     "Python.oops_1.executor": "Run",
+    "Python.oops_2.executor": "Run",
+    "Python.oops_3.executor": "Run",
+    "Python.oops_4.executor": "Run",
     "Python.set_1.executor": "Run",
     "Python.set_2.executor": "Run",
     "Python.set_3.executor": "Run",
@@ -193,7 +196,7 @@
     "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion.inline",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -220,7 +223,9 @@
       <workItem from="1787429750647" duration="5331000" />
       <workItem from="1787776678394" duration="3006000" />
       <workItem from="1788626967822" duration="8000" />
-      <workItem from="1788627070546" duration="3562000" />
+      <workItem from="1788627070546" duration="5205000" />
+      <workItem from="1788964938745" duration="3041000" />
+      <workItem from="1788972954632" duration="4316000" />
     </task>
     <task id="LOCAL-00001" summary="New learning codes">
       <option name="closed" value="true" />
@@ -254,12 +259,15 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python_Programming$basics_6.coverage" NAME="basics_6 Coverage Results" MODIFIED="1787436887149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problems/Basic" />
     <SUITE FILE_PATH="coverage/Python_Programming$file_handling_7.coverage" NAME="file_handling_7 Coverage Results" MODIFIED="1787779183233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
-    <SUITE FILE_PATH="coverage/Python_Programming$file_handling_5.coverage" NAME="file_handling_5 Coverage Results" MODIFIED="1787777621570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
+    <SUITE FILE_PATH="coverage/Python_Programming$oops_2.coverage" NAME="oops_2 Coverage Results" MODIFIED="1788965143748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Python_Programming$file_handling_1.coverage" NAME="file_handling_1 Coverage Results" MODIFIED="1787431054705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
+    <SUITE FILE_PATH="coverage/Python_Programming$file_handling_4.coverage" NAME="file_handling_4 Coverage Results" MODIFIED="1787777013839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
+    <SUITE FILE_PATH="coverage/Python_Programming$oops_3.coverage" NAME="oops_3 Coverage Results" MODIFIED="1788970513403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
+    <SUITE FILE_PATH="coverage/Python_Programming$file_handling_5.coverage" NAME="file_handling_5 Coverage Results" MODIFIED="1787777621570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
     <SUITE FILE_PATH="coverage/Python_Programming$file_handling_3.coverage" NAME="file_handling_3 Coverage Results" MODIFIED="1787432519231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
+    <SUITE FILE_PATH="coverage/Python_Programming$oops_4.coverage" NAME="oops_4 Coverage Results" MODIFIED="1788973403382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Python_Programming$file_handling_2.coverage" NAME="file_handling_2 Coverage Results" MODIFIED="1787431829388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
     <SUITE FILE_PATH="coverage/Python_Programming$oops_1.coverage" NAME="oops_1 Coverage Results" MODIFIED="1788636357123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPS" />
     <SUITE FILE_PATH="coverage/Python_Programming$file_handling_6.coverage" NAME="file_handling_6 Coverage Results" MODIFIED="1787778301149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
-    <SUITE FILE_PATH="coverage/Python_Programming$file_handling_4.coverage" NAME="file_handling_4 Coverage Results" MODIFIED="1787777013839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/File Handling" />
   </component>
 </project>
