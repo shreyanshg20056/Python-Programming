@@ -34,61 +34,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000004423" />
-      <entry key="MS500" value="1.0033817834590613" />
-      <entry key="S2" value="1.2411495461460347" />
-      <entry key="S5" value="1.566127927611003" />
-      <entry key="S10" value="1.7524147311230707" />
-      <entry key="S30" value="1.9095358324087441" />
-      <entry key="S60" value="1.9590489694643853" />
-      <entry key="M2" value="2.416073367676735" />
-      <entry key="M5" value="10.997785678234079" />
-      <entry key="M10" value="35.15683215052596" />
-      <entry key="M15" value="59.75652192405519" />
-      <entry key="M30" value="117.80871911060466" />
-      <entry key="H1" value="194.18890917529492" />
-      <entry key="H2" value="315.91461688995696" />
-      <entry key="H4" value="504.6247252252487" />
-      <entry key="D1" value="912.3601773191746" />
-      <entry key="W1" value="1030.326139682506" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000002772079186" />
+      <entry key="S2" value="1.0428128094762" />
+      <entry key="S5" value="1.6227900191212943" />
+      <entry key="S10" value="2.567275509356067" />
+      <entry key="S30" value="3.9226113312939233" />
+      <entry key="S60" value="4.418504295919051" />
+      <entry key="M2" value="4.697819080834412" />
+      <entry key="M5" value="5.214166987066841" />
+      <entry key="M10" value="11.02110129346856" />
+      <entry key="M15" value="23.471439275006528" />
+      <entry key="M30" value="74.77679456119536" />
+      <entry key="H1" value="168.56162786629133" />
+      <entry key="H2" value="313.31138419128825" />
+      <entry key="H4" value="524.7996275246387" />
+      <entry key="D1" value="993.8782768720903" />
+      <entry key="W1" value="1134.0454397215042" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="9.865530222101967E-217" />
-      <entry key="S5" value="3.9595713439622775E-87" />
-      <entry key="S10" value="6.292512490223824E-44" />
-      <entry key="S30" value="3.977506548353638E-15" />
-      <entry key="S60" value="6.329887612531469E-8" />
-      <entry key="M2" value="2.740887697956921E-4" />
-      <entry key="M5" value="0.06217340097379959" />
-      <entry key="M10" value="0.4914230786856648" />
-      <entry key="M15" value="1.0489156346599058" />
-      <entry key="M30" value="2.415093318153613" />
-      <entry key="H1" value="4.00146855693728" />
-      <entry key="H2" value="5.720577870276191" />
-      <entry key="H4" value="7.458576532033348" />
-      <entry key="D1" value="10.192450254359663" />
-      <entry key="W1" value="10.877342315178057" />
+      <entry key="S2" value="8.491407490860452E-292" />
+      <entry key="S5" value="3.7290192482387E-117" />
+      <entry key="S10" value="6.121922439046069E-59" />
+      <entry key="S30" value="4.491502751585317E-20" />
+      <entry key="S60" value="2.9469566869476785E-10" />
+      <entry key="M2" value="3.123163494915667E-5" />
+      <entry key="M5" value="0.04129412534920359" />
+      <entry key="M10" value="0.4957661044538742" />
+      <entry key="M15" value="1.1947116167110325" />
+      <entry key="M30" value="3.240569602581631" />
+      <entry key="H1" value="6.0240119898061675" />
+      <entry key="H2" value="8.992693546309969" />
+      <entry key="H4" value="11.740067066379961" />
+      <entry key="D1" value="15.815870271708592" />
+      <entry key="W1" value="16.820342079292875" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.7737824967715143" />
-      <entry key="MS500" value="0.9531688483263588" />
-      <entry key="S2" value="1.224511934636922" />
-      <entry key="S5" value="1.557335107842462" />
-      <entry key="S10" value="1.747406150377966" />
-      <entry key="S30" value="1.9076941558622402" />
-      <entry key="S60" value="1.9580851820284435" />
-      <entry key="M2" value="2.414832311410056" />
-      <entry key="M5" value="11.04801320928443" />
-      <entry key="M10" value="35.62063622629577" />
-      <entry key="M15" value="60.77023755204614" />
-      <entry key="M30" value="120.18563870114392" />
-      <entry key="H1" value="198.15881114178993" />
-      <entry key="H2" value="321.61017034771925" />
-      <entry key="H4" value="512.0639362757701" />
-      <entry key="D1" value="922.547065113709" />
-      <entry key="W1" value="1041.2025939689245" />
+      <entry key="MS100" value="1.9339742275047836E-6" />
+      <entry key="MS500" value="0.07199300761693031" />
+      <entry key="S2" value="0.5482730607656694" />
+      <entry key="S5" value="1.3248308982546952" />
+      <entry key="S10" value="2.3634593858461925" />
+      <entry key="S30" value="3.8310137705790814" />
+      <entry key="S60" value="4.3685389557641985" />
+      <entry key="M2" value="4.671703380211689" />
+      <entry key="M5" value="5.242387362728133" />
+      <entry key="M10" value="11.495914541209137" />
+      <entry key="M15" value="24.63581820456585" />
+      <entry key="M30" value="77.97551452551139" />
+      <entry key="H1" value="174.5448378828775" />
+      <entry key="H2" value="322.2707954803104" />
+      <entry key="H4" value="536.514727102888" />
+      <entry key="D1" value="1009.687175895997" />
+      <entry key="W1" value="1150.8646711141594" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -103,103 +103,103 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_ASCENDING" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.basic_1.executor": "Run",
-    "Python.basic_2.executor": "Run",
-    "Python.basic_3.executor": "Run",
-    "Python.basics_1.executor": "Run",
-    "Python.basics_2.executor": "Run",
-    "Python.basics_3.executor": "Run",
-    "Python.basics_4.executor": "Run",
-    "Python.basics_5.executor": "Run",
-    "Python.basics_6.executor": "Run",
-    "Python.con_1.executor": "Debug",
-    "Python.conditional_1.executor": "Run",
-    "Python.conditional_2.executor": "Run",
-    "Python.conditional_3.executor": "Run",
-    "Python.conditional_4.executor": "Run",
-    "Python.dict_1.executor": "Run",
-    "Python.dict_2.executor": "Run",
-    "Python.dict_3.executor": "Run",
-    "Python.dict_4.executor": "Run",
-    "Python.even_odd.executor": "Run",
-    "Python.file_handling_1.executor": "Run",
-    "Python.file_handling_2.executor": "Run",
-    "Python.file_handling_3.executor": "Run",
-    "Python.file_handling_4.executor": "Run",
-    "Python.file_handling_5.executor": "Run",
-    "Python.file_handling_6.executor": "Run",
-    "Python.file_handling_7.executor": "Run",
-    "Python.for_loop_sum_50.executor": "Run",
-    "Python.funct_1.executor": "Run",
-    "Python.funct_2.executor": "Run",
-    "Python.funct_3.executor": "Run",
-    "Python.funct_4.executor": "Run",
-    "Python.funct_5.executor": "Run",
-    "Python.funct_6.executor": "Run",
-    "Python.funct_7.executor": "Run",
-    "Python.list_11.executor": "Run",
-    "Python.list_12.executor": "Run",
-    "Python.list_13.executor": "Run",
-    "Python.list_14.executor": "Run",
-    "Python.list_15.executor": "Run",
-    "Python.list_16.executor": "Run",
-    "Python.list_17.executor": "Run",
-    "Python.list_18.executor": "Run",
-    "Python.list_19.executor": "Run",
-    "Python.loop_1.executor": "Run",
-    "Python.loop_10.executor": "Run",
-    "Python.loop_2.executor": "Run",
-    "Python.loop_3.executor": "Run",
-    "Python.loop_4.executor": "Run",
-    "Python.loop_5.executor": "Run",
-    "Python.loop_6.executor": "Run",
-    "Python.loop_7.executor": "Run",
-    "Python.loop_8.executor": "Run",
-    "Python.loop_9.executor": "Run",
-    "Python.oops_1.executor": "Run",
-    "Python.oops_2.executor": "Run",
-    "Python.oops_3.executor": "Run",
-    "Python.oops_4.executor": "Run",
-    "Python.set_1.executor": "Run",
-    "Python.set_2.executor": "Run",
-    "Python.set_3.executor": "Run",
-    "Python.set_4.executor": "Run",
-    "Python.str_2.executor": "Run",
-    "Python.str_3.executor": "Run",
-    "Python.str_4.executor": "Run",
-    "Python.str_5.executor": "Run",
-    "Python.str_6.executor": "Run",
-    "Python.str_7.executor": "Run",
-    "Python.str_8.executor": "Run",
-    "Python.string_1.executor": "Run",
-    "Python.tuple_1.executor": "Run",
-    "Python.tuple_2.executor": "Run",
-    "Python.tuple_3.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Python Programming",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.basic_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basic_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basic_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basics_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basics_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basics_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basics_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basics_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basics_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.con_1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.conditional_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditional_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditional_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditional_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.even_odd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_handling_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_handling_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_handling_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_handling_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_handling_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_handling_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_handling_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for_loop_sum_50.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funct_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funct_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funct_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funct_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funct_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funct_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.funct_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loop_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loop_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loop_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loop_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loop_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loop_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loop_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loop_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loop_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loop_9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oops_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oops_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oops_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oops_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.str_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.str_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.str_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.str_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.str_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.str_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.str_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple_3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Python Programming&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\coding\python\Python Programming\dictionary" />
@@ -226,6 +226,8 @@
       <workItem from="1788627070546" duration="5205000" />
       <workItem from="1788964938745" duration="3041000" />
       <workItem from="1788972954632" duration="4316000" />
+      <workItem from="1789060340393" duration="2582000" />
+      <workItem from="1789396765052" duration="223000" />
     </task>
     <task id="LOCAL-00001" summary="New learning codes">
       <option name="closed" value="true" />
