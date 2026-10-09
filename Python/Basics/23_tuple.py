@@ -1,0 +1,10 @@
+# Tuple are ordered collection of data items.They store multiple items in a single variable.Tuple items are separated by commas and enclosed in parenthesis().
+t = (1,5,"green",45.7,True)
+print(t)
+print(t[1])
+print(t[2])
+print(t[-1])
+print(t[-2])
+print(t[-3])
+print(t[0:2])
+print(len(t))

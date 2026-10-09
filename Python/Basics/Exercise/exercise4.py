@@ -1,7 +1,7 @@
 import time
 
 time1 = time.strftime('%H,%M,%S')
-if time1 > ('00,00,00') and time1 < ('12,00,00'):
+if time1 > ('06,00,00') and time1 < ('12,00,00'):
   print("Good Morning")
 elif time1>("12,00,00") and time1< ('18,00,00'):
   print("Good Afternoon")
